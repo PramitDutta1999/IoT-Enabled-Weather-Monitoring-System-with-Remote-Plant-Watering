@@ -1,4 +1,4 @@
-# IoT Weather Monitoring and Plant Care System
+# IoT Enabled Weather Monitoring System with Remote Plant Watering
 
 This repository contains the files and resources for an IoT-enabled system that monitors weather conditions and includes a remotely operable plant watering system. It includes simulation, Arduino libraries, project documentation, and source code for hardware implementation.
 
